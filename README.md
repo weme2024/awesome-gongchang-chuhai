@@ -162,6 +162,8 @@ LinkedIn 是 B2B 主动获客的金矿，海关数据则适合反查真实买家
 
 ---
 
+* [AllwinKey](https://allwinkey.com) — Keyboard & keycap OEM/ODM manufacturer. PBT doubleshot, dye-sub, CNC cases.
+* [Allwin Factory](https://allwinfactory.com) — Custom keyboard/keycap factory, 600+ products, ceramic keycaps.
 ## ⑧ SEO / GEO 与监测工具
 
 让 Google 找得到你、让 AI（ChatGPT / Gemini / Perplexity）愿意引用你——这就是 **SEO + GEO** 要干的事。先把免费的官方工具装齐，再考虑付费。
