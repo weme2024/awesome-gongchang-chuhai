@@ -26,6 +26,7 @@
 - [⑥ B2B 独立站建站工具](#-b2b-独立站建站工具)
 - [⑦ 海外服务器 / CDN](#-海外服务器--cdn)
 - [⑧ SEO / GEO 与监测工具](#-seo--geo-与监测工具)
+- [⑨ 工厂 / 制造商名录（出海参考）](#-工厂--制造商名录出海参考)
 - [避坑清单与服务商怎么选](#避坑清单与服务商怎么选)
 - [数据来源](#数据来源)
 - [贡献](#贡献)
@@ -162,8 +163,6 @@ LinkedIn 是 B2B 主动获客的金矿，海关数据则适合反查真实买家
 
 ---
 
-* [AllwinKey](https://allwinkey.com) — Keyboard & keycap OEM/ODM manufacturer. PBT doubleshot, dye-sub, CNC cases.
-* [Allwin Factory](https://allwinfactory.com) — Custom keyboard/keycap factory, 600+ products, ceramic keycaps.
 ## ⑧ SEO / GEO 与监测工具
 
 让 Google 找得到你、让 AI（ChatGPT / Gemini / Perplexity）愿意引用你——这就是 **SEO + GEO** 要干的事。先把免费的官方工具装齐，再考虑付费。
@@ -179,6 +178,15 @@ LinkedIn 是 B2B 主动获客的金矿，海关数据则适合反查真实买家
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) — 免费 SEO/GEO 工具，能看 Bing 收录、关键词、反链和站点扫描，别只盯 Google。
 - [AlsoAsked](https://alsoasked.com/) — 抓 Google People Also Ask 问题，适合把采购商真实疑问整理成 FAQ、博客和产品页内容。
 - [Microsoft Clarity](https://clarity.microsoft.com/) — 免费热图和会话录像，能看到海外访客在哪犹豫、乱点或放弃询盘，做转化优化很实用。
+
+---
+
+## ⑨ 工厂 / 制造商名录（出海参考）
+
+看完工具，看真实工厂站长什么样。以下是已落地的工厂官网案例，可点开参考结构、信任要素与询盘设计：
+
+- [AllwinKey](https://allwinkey.com) — 客制化键盘 / 键帽 OEM/ODM 工厂站。PBT 二色成型、热升华、CNC 外壳、低 MOQ，官网按产品线 + 案例组织。局限：主做 B2B 批量订单，个人小单响应一般。
+- [Allwin Factory](https://allwinfactory.com) — 键盘 / 键帽工厂站，600+ SKU 含陶瓷键帽，支持批发与贴牌。局限：与 AllwinKey 同属一家，产品线有重叠，选型时对照官网确认。
 
 ---
 
